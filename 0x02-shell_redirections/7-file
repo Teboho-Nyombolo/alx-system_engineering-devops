@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
-=======
-#!/bin/bash                                                                                                                     
-echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)                                                                                     
->>>>>>> 00af775257ff71b24d2adbb13bf4f6e707f55da0
